@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Are dogs really the best?
 I thought that they were quite the feast
 Even though dogs are somewhat of a beast
@@ -19,3 +20,30 @@ Cats are better
 At least they don't bark 
 They're adorable
 Cats are better
+=======
+Cats aren't cool
+They aren't the best
+They look out the window a lot 
+But sometimes they scratch your face
+They purr to let you know they're happy!
+Dogs are not like cats
+dogs are the best
+Their tails wag
+Some dogs a floofy.
+Floof is the best.
+But dogs are big and they can scare children
+
+
+But they are so cute and love pats
+Frodo would have a cat but it would knock 
+The one ring off the table
+
+for fun.
+
+I have a Vizsla at home. She is the best dog. A good dog.
+
+Cats are sometimes cool
+They are sometimes the best
+They also have kittens
+Kittens are small
+>>>>>>> 18403effd1ce1e80da2ef70f5e41981737e94e27
