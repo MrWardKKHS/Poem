@@ -35,3 +35,7 @@ Kittens are small
 Mountains are cool
 even cold
 They're the tallest things I know.
+
+Mountains are tall
+Mountains are small 
+Mt Everest is the tallest of them all
