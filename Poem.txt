@@ -40,3 +40,7 @@ new monkeys are cool
 boats are flying ojects into the pool
 dinosaurs are very needy
 metal is very seedy
+
+Mountains are tall
+Mountains are small 
+Mt Everest is the tallest of them all
