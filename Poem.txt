@@ -44,3 +44,7 @@ metal is very seedy
 Mountains are tall
 Mountains are small 
 Mt Everest is the tallest of them all
+
+Mountains are brown 
+Mountains are white 
+You can see them all over the night
